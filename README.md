@@ -74,7 +74,7 @@ python src/evaluate.py
 ## Results
 
 - **Best Test MAE:** 4.7
-- **Visual comparison:** Actual vs Predicted delivery times
+![Actual vs Predicted Delivery Times](notebooks/actual_vs_predicted.png)
 
 ---
 
